@@ -10,12 +10,12 @@ Proyecto grupal final de la etapa de labs de la carrera de Data Science de la ac
 
 - [Los requerimiento del proyecto.](https://docs.google.com/document/u/0/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub?pli=1)
 
-- [Criterios de avaluación del desempeño del grupo.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
+- [Criterios de evaluación del desempeño del grupo.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
 
 - [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
 
 
-El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics.  Y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Google Maps sobre un determinado negocio que pueden ser **hoteles, restaurantes, turismo, ocio, etc**.
+El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
 
 <div style="display: flex; justify-content: center;">
 
@@ -27,7 +27,7 @@ El **objetivo de este proyecto** tomar el **rol de una consultora** en Business 
 
 ## 📋 *2. Descripcion del Proyecto*
 
-Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evaluo su desempeño desde el inicio de la Pandemia por COVID desde le año 2020 al año 2022.
+Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños desde el inicio de la Pandemia por COVID hasta el año 2022 (2020 al 2022).
 
 Para **evaluar el desempeño de los restaurantes** se planteó tres indicadores claves de desempeño (KPI), un análisis de sentimiento y un sistema de recomendación.
 
@@ -45,11 +45,11 @@ Para **evaluar el desempeño de los restaurantes** se planteó tres indicadores 
 
 El proyecto se llevo a cabo en tres etapas:
 
-- 1° Etapa: Puesta en marcha del proyecto y Trabajo con Datos. 👉[Sprint#1](3_Sprint#1)     
+- 1° Etapa: Puesta en marcha del proyecto y Trabajo con Datos. 👉[Sprint#1](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/3_Sprint%231)     
 
-- 2° Etapa: Data Engineering. 👉[Sprint#2](4_Sprint#2)
+- 2° Etapa: Data Engineering. 👉[Sprint#2](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/4_Sprint%232)
 
-- 3° Etapa: Data Analytics y Machine Learning.🦾 👉[Sprint#3](5_Sprint#3)
+- 3° Etapa: Data Analytics y Machine Learning.🦾 👉[Sprint#3](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/5_Sprint%233)
 
 
 
