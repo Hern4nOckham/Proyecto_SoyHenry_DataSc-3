@@ -16,7 +16,7 @@ Nos contrató la empresa Gruma, quiere lanzar al mercado nuevos productos y nece
 <img src="Imagenes1\6.jpg" width="320" height="200" style="margin-right: 70px;">
 <img src="Imagenes1\2.png" width="300" height="150"> 
 
-La población en EE.UU. de origen mexicana es de aproximadamente de 36 millones.
+La población en EE.UU. de origen mexicana es aproximadamente 36 millones.
 </div>
 
 La empresa **Gruma**, es la mayor productora de harina de maíz y tortillas en el mundo.
