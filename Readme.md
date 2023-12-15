@@ -15,7 +15,7 @@ Proyecto grupal final de la etapa de labs de la carrera de Data Science de la ac
 - [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
 
 
-El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics.  Y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Google Maps sobre un determinado negocio que pueden ser **hoteles, restaurantes, turismo, ocio, etc**.
+El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
 
 <div style="display: flex; justify-content: center;">
 
@@ -27,7 +27,7 @@ El **objetivo de este proyecto** tomar el **rol de una consultora** en Business 
 
 ## 📋 *2. Descripcion del Proyecto*
 
-Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evaluo su desempeño desde el inicio de la Pandemia por COVID desde le año 2020 al año 2022.
+Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños desde el inicio de la Pandemia por COVID hasta el año 2022 (2020 al 2022).
 
 Para **evaluar el desempeño de los restaurantes** se planteó tres indicadores claves de desempeño (KPI), un análisis de sentimiento y un sistema de recomendación.
 
