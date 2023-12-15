@@ -10,7 +10,7 @@ Proyecto grupal final de la etapa de labs de la carrera de Data Science de la ac
 
 - [Los requerimiento del proyecto.](https://docs.google.com/document/u/0/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub?pli=1)
 
-- [Criterios de avaluación del desempeño del grupo.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
+- [Criterios de evaluación del desempeño del grupo.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
 
 - [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
 
