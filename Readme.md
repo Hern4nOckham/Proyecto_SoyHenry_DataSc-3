@@ -45,11 +45,11 @@ Para **evaluar el desempeño de los restaurantes** se planteó tres indicadores 
 
 El proyecto se llevo a cabo en tres etapas:
 
-- 1° Etapa: Puesta en marcha del proyecto y Trabajo con Datos. 👉[Sprint#1](3_Sprint#1)     
+- 1° Etapa: Puesta en marcha del proyecto y Trabajo con Datos. 👉[Sprint#1](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/3_Sprint%231)     
 
-- 2° Etapa: Data Engineering. 👉[Sprint#2](4_Sprint#2)
+- 2° Etapa: Data Engineering. 👉[Sprint#2](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/4_Sprint%232)
 
-- 3° Etapa: Data Analytics y Machine Learning.🦾 👉[Sprint#3](5_Sprint#3)
+- 3° Etapa: Data Analytics y Machine Learning.🦾 👉[Sprint#3](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/5_Sprint%233)
 
 
 
