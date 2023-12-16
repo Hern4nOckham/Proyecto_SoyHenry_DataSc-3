@@ -115,11 +115,11 @@ Henry nos proporciono un Drive donde se encontraban los datasets de Local Guides
 ##  *8. Extracción, Transformación y Carga*
 
 Se realizó un análisis exploratorio de los datos preliminar y una extracción, limpieza y carga del **dataset de Yelps** en estos notebbok:
- - xxx.ipynb
- - xxxx.ipynb
+ - ETL_YELP.ipynb
+ - EYL_Metadatos.ipynb  >>>> Fundamento de por que descartamos el dataset de Google
 
 Y se generó este nuevo dataset Yelp_ETL con los siguientes archivos:
-- xxx.csv
-- xxxx.csv
+- ETL_YELP1.csv
+- ETL_YELP2.csv
 
 
