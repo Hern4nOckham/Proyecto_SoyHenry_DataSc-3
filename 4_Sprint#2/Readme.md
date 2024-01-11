@@ -35,7 +35,7 @@ Las herramientas de **Google Cloud Platform (GCP)** que se utilizaron para el pr
 </p>
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  Video de Google Cloud Platform xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  Video de Google Cloud Platform xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## 🔄 *3. Modelo Entidad-Relación*
 
@@ -73,14 +73,14 @@ Power BI
 Gráficos: Cantidad de Restaurantes Mexicanos por año y Evolución del KPI.
 - En este gráfico se muestra la evolución de la cantidad de restaurantes mexicanos desde el año 2019 al 2022 por trimestres, se observa una tendencia a una diminucion de la cantidad de restaurantes mexicanos. 
 <p align="center">
-<img src="Imagenes2\5.1.jpg" height=400>
+<img src="Imagenes2\5.1.jpg" height=500>
 </p>
 
 
 Gráfico: Cantidad de Restaurantes Mexicanos por Estado y Segmentación de valoraciones.
 - En este gráfico se muestra la cantidad de restaurantes mexicanos por estado para el primer trimestre del año 2022, se observa que en los Estado de Florida, Arizona y Pensilvania se encuentra una cantidad significativa de restaurantes con respecto a los demas estados.
 <p align="center">
-<img src="Imagenes2\5.2.jpg" height=400>
+<img src="Imagenes2\5.2.jpg" height=500>
 </p>
 
 
