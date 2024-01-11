@@ -15,7 +15,7 @@ Proyecto grupal final de la etapa de labs de la carrera de Data Science de la ac
 - [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
 
 
-El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
+El **objetivo de este proyecto** es tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
 
 <div style="display: flex; justify-content: center;">
 
