@@ -20,6 +20,9 @@ El **objetivo de este proyecto** es tomar el **rol de una consultora** en Busine
 <div style="display: flex; justify-content: center;">
 
 <img src="2_Imagenes\3.png" width="280" height="60" style="margin-right: 70px;">
+</div>
+
+<div style="display: flex; justify-content: center;">
 <img src="2_Imagenes\2.png" width="200" height="90">
 
 </div>
