@@ -30,12 +30,17 @@ Las herramientas de **Google Cloud Platform (GCP)** que se utilizaron para el pr
 </p>
 
                                                 Google Cloud Platform
+Panel de control
 <p align="center">
-<img src="Imagenes2\GCP_1.jpg" width="750" height="400">
+<img src="Imagenes2\GCP_1.jpg" height="433">
 </p>
 
+Funcionamiento de la plataforma
+<p align="center">
+<img src="Imagenes2\GCP_2.gif" height="400">
+</p>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  Video de Google Cloud Platform xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- Ver vídeo completo en el siguiente link 👉 [Visualización de video](https://youtu.be/H4Fy8GOCF0M).
 
 ## 🔄 *3. Modelo Entidad-Relación*
 
@@ -64,7 +69,7 @@ Google Cloud Platform
 
 Power BI
 <p align="center">
-<img src="Imagenes2\4.2.jpg" height=400>
+<img src="Imagenes2\4.2.jpg" height=423>
 </p>
 
 

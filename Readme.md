@@ -15,14 +15,11 @@ Proyecto grupal final de la etapa de labs de la carrera de Data Science de la ac
 - [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
 
 
-El **objetivo de este proyecto** es tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
+El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
 
 <div style="display: flex; justify-content: center;">
 
 <img src="2_Imagenes\3.png" width="280" height="60" style="margin-right: 70px;">
-</div>
-
-<div style="display: flex; justify-content: center;">
 <img src="2_Imagenes\2.png" width="200" height="90">
 
 </div>
@@ -30,18 +27,17 @@ El **objetivo de este proyecto** es tomar el **rol de una consultora** en Busine
 
 ## 📋 *2. Descripcion del Proyecto*
 
-Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños desde el inicio de la Pandemia por COVID hasta el año 2022 (2020 al 2022).
+🍗🥗🍝🧀🍻 Muchos usuarios leen las reseñas de los lugares a los que planean ir, en base a esto toman decisiones sobre dónde comprar, comer, dormir, reunirse, etc. 
 
-Para **evaluar el desempeño de los restaurantes** se planteó tres indicadores claves de desempeño (KPI), un análisis de sentimiento y un sistema de recomendación.
-
+⭐⭐⭐⭐⭐ Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los los clientes de su negocio/producto/servicio.
 
 <div style="display: flex; justify-content: center;"><img src="2_Imagenes/6.jpg" width="450" height="270"></div>
 
+Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños durante una serie de tiempo (desde el año 2019 al primer trimestre del año 2022).
 
-🍗🥗🍝🧀🍻 Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. 
+Para **evaluar el desempeño de los restaurantes** se planteó cuatro indicadores claves de desempeño (KPI) y un análisis de sentimiento.
 
-⭐⭐⭐⭐⭐ Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar.
-
+Para **mejorar la experiencia del cliente** se realizó un sistema de recomendación.
 
 
 ## 📆 *3. Desarrollo del Proyecto*
@@ -67,13 +63,19 @@ Los datasets fueron brindados por Henry:
 
 ## 📈 *5. Conclusíones*
 
-Se realizará esto cuando se finalize con el trabajo.... ... .. .
+📢📢📢📢Este proyecto esta en desarrollo, se prevee terminarl la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
 
 ## 📚 *6. Bibliografia*
 
-- [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
 - [Fundación Carlo Slim](https://accesolatino.org/noticias/cuatro-datos-clave-de-la-poblacion-latina-en-ee-uu/)
 - [Gruma](https://www.gruma.com/es/sala-de-prensa/noticias-y-comunicados/julio-19-2023-operaciones-de-gruma-fuera-de-mexico-impulsan-crecimiento-de-24percent-en-ventas-netas-y-31percent-en-ebitda-durante-el-2t23.aspx)
+- [Google Cloud Platform](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-AR-all-es-dr-BKWS-all-all-trial-e-dr-1707800-LUAC0010192&utm_content=text-ad-none-any-DEV_c-CRE_512364917186-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General-KWID_43700062788251533-kwd-155951229&utm_term=KW_gcp-ST_GCP&gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_wZO2xHH_39r6R-gz3FIEwDkfOhCTJI52XpVYM1tde2rGBZirV02bKkaAqsgEALw_wcB&gclsrc=aw.ds&hl=es_419)
+- [Apache Beam](https://beam.apache.org/documentation/programming-guide/#core-beam-transforms)
+- [Diseño de pipelines de datos con GCP](https://www.youtube.com/watch?v=9UKxpK5-AZU)
+- [Yelp Web](https://www.yelp.com/)
+- [Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+- [Editar vídeos](https://online-video-cutter.com/es/change-video-speed)
+- [Convertir vídeos](https://convertio.co/es/mp4-gif/)
 
 
 ## 👥 *7. Integrantes*
