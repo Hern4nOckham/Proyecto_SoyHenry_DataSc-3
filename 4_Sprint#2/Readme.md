@@ -88,4 +88,21 @@ Gráfico: Cantidad de Restaurantes Mexicanos por Estado y Segmentación de valor
 <img src="Imagenes2\5.2.jpg" height=500>
 </p>
 
+Gráfico: Nube de palabras de las reseñas de los clientes.
 
+Las palabras que mas se repiten en las reseñas de los clientes son:
+
+- Place     >>> Lugar
+- Food      >>> Alimento
+- Good      >>> Bien
+- Order     >>> Orden
+- Taco      >>> Taco (Plato mexicano)
+- Deliciou  >>> Delicioso
+- Service   >>> Servicio
+- One       >>> Uno
+- Ordered   >>> Ordenado
+- Love      >>> Amor
+
+<p align="center">
+<img src="Imagenes2\nube_palabras.png" height=500>
+</p>
