@@ -33,7 +33,7 @@ El **objetivo de este proyecto** tomar el **rol de una consultora** en Business 
 
 <div style="display: flex; justify-content: center;">
   
-                                                      <img src="2_Imagenes/6.jpg" width="450" height="270">
+<img src="2_Imagenes/6.jpg" width="450" height="270">
                                                       
 </div>
 
