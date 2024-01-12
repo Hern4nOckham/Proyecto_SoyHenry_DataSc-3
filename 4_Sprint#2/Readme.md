@@ -104,5 +104,5 @@ Las palabras que mas se repiten en las reseñas de los clientes son:
 - Love      >>> Amor
 
 <p align="center">
-<img src="Imagenes2\nube_palabras.png" height=500>
+<img src="Imagenes2\nube_palabras.png" height=700>
 </p>
