@@ -31,11 +31,7 @@ El **objetivo de este proyecto** tomar el **rol de una consultora** en Business 
 
 ⭐⭐⭐⭐⭐ Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los los clientes de su negocio/producto/servicio.
 
-<div style="display: flex; justify-content: center;">
-  
-<img src="2_Imagenes/6.jpg" width="450" height="270">
-                                                      
-</div>
+<div style="display: flex; justify-content: center;"> <img src="2_Imagenes/6.jpg" width="450" height="270"> </div>
 
 Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños durante una serie de tiempo (desde el año 2019 al primer trimestre del año 2022).
 
