@@ -90,7 +90,9 @@ Gráfico: Cantidad de Restaurantes Mexicanos por Estado y Segmentación de valor
 
 Gráfico: Nube de palabras de las reseñas de los clientes.
 
-Las palabras que mas se repiten en las reseñas de los clientes son:
+Se puede observar que en un top ten de las palabras que mas se repiten por parte de los clientes son todas positivas.
+
+Top ten:
 
 - Place     >>> Lugar
 - Food      >>> Alimento
@@ -104,5 +106,5 @@ Las palabras que mas se repiten en las reseñas de los clientes son:
 - Love      >>> Amor
 
 <p align="center">
-<img src="Imagenes2\nube_palabras.png" width="900" height=550>
+<img src="Imagenes2\nube_palabras.png" height=500>
 </p>

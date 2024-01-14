@@ -61,7 +61,7 @@ Los datasets fueron brindados por Henry:
 - [Yelp](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
 
 
-## 📈 *5. Conclusíones*
+## 📈 *5. Conclusiones*
 
 📢📢📢📢Este proyecto esta en desarrollo, se prevee terminarl la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
 
@@ -84,7 +84,7 @@ Henry Mentor:
 - **Angela Aguirre**: aguirrealvareza97@gmail.com | Linkedin | GitHub.
 
 Product Owner:
-- **xxx**: xxx@gmail.com | Linkedin | GitHub.
+- **Pía Ruiz**: xxx@gmail.com | Linkedin | GitHub.
 
 **Grupo N° 1**:
 
