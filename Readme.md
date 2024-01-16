@@ -83,13 +83,7 @@ Los datasets fueron brindados por Henry:
 
 ## 👥 *7. Integrantes*
 
-Henry Mentor:
-- **Angela Aguirre**: aguirrealvareza97@gmail.com | Linkedin | GitHub.
-
-Product Owner:
-- **Pía Ruiz**: xxx@gmail.com | Linkedin | GitHub.
-
-**Grupo N° 1**:
+**Grupo N° 1:**
 
 Data Engineer / Data Science
   - **Javier Baez Esqueda**: drbaez072@hotmail.com | Linkedin | GitHub.
@@ -100,6 +94,10 @@ Data Analyst / Data Science
   - **Marta Inés Pedriel**: martainesped@gmail.com | Linkedin | GitHub.
   - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](www.linkedin.com/in/hernán-pizarro-683679268) | [GitHub](https://github.com/Hern4nOckham).
 
+**Academia Henry:**
+
+- Henry Mentor: **Angela Aguirre**: aguirrealvareza97@gmail.com | Linkedin | GitHub.
+- Product Owner: **Pía Ruiz**: xxx@gmail.com | Linkedin | GitHub.
 
 ## ⚠️ *8. Disclaimer*
 
