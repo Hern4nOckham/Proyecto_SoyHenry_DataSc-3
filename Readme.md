@@ -4,18 +4,16 @@
 
 
 
-## 🚀 *1. Requerimientos del Proyecto*
+## 🚀 *1. Requerimientos para el Proyecto*
 
-Proyecto grupal final de la etapa de labs de la carrera de Data Science de la academia SoyHenry.
+Proyecto grupal final de la **etapa de labs** de la carrera de Data Science de la academia SoyHenry.
 
-- [Los requerimiento del proyecto.](https://docs.google.com/document/u/0/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub?pli=1)
+- [Generalidades y entregables.](https://docs.google.com/document/u/0/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub?pli=1)
 
-- [Criterios de evaluación del desempeño del grupo.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
-
-- [Tener en cuenta el Disclaimer](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?pli=1#heading=h.ntgoelrzlm1)
+- [Criterios de evaluación.](https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit) 
 
 
-El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio(farmacias, hoteles, restaurantes, turismo, ocio, etc).
+El **objetivo de este proyecto** tomar el **rol de una consultora** en Business Intelligence y Data Analytics, y realizar un análisis detallado de la **opinión de los usuarios** en Yelp y cruzarlos con los de Local Guides-Google Maps sobre un determinado negocio (farmacias, hoteles, restaurantes, turismo, ocio, etc).
 
 <div style="display: flex; justify-content: center;">
 
@@ -25,24 +23,29 @@ El **objetivo de este proyecto** tomar el **rol de una consultora** en Business 
 </div>
 
 
-## 📋 *2. Descripcion del Proyecto*
+## 📋 *2. Descripción del Proyecto*
 
-🍗🥗🍝🧀🍻 Muchos usuarios leen las reseñas de los lugares a los que planean ir, en base a esto toman decisiones sobre dónde comprar, comer, dormir, reunirse, etc. 
+🍗🥗🍝🧀🍻 Gran parte de las personas leen las reseñas de los lugares a los que planean ir, en base a esto toman decisiones sobre dónde comprar, comer, dormir, reunirse, etc. 
 
-⭐⭐⭐⭐⭐ Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los los clientes de su negocio/producto/servicio.
+⭐⭐⭐⭐⭐ Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los clientes de su negocio, producto o servicio.
+
+Para este proyecto, una empresa del rubro alimenticio nos contrató para realizar un
+ **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos.
 
 <div style="display: flex; justify-content: center;"> <img src="2_Imagenes/6.jpg" width="450" height="270"> </div>
 
-Se realizó un **análisis de mercado de los restaurantes mexicanos** que se encuentran en Estados Unidos y se evalúo sus desempeños durante una serie de tiempo (desde el año 2019 al primer trimestre del año 2022).
+- Para **evaluar el desempeño de los restaurantes** se planteó cuatro indicadores claves de desempeño (KPI) y un análisis de sentimiento, desde el año 2019 al primer trimestre del año 2022.
 
-Para **evaluar el desempeño de los restaurantes** se planteó cuatro indicadores claves de desempeño (KPI) y un análisis de sentimiento.
+   👉 [Visualización de datos.](https://app.powerbi.com/view?r=eyJrIjoiNDc5MmY1YzgtYWMxOC00NjE1LWFiM2QtYzFjMmU0ZTVlYTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-Para **mejorar la experiencia del cliente** se realizó un sistema de recomendación.
 
+- Para una **consulta de los datos en tiempo real**, se realizó un sistema de recomendación.
+
+   👉 [Sistema de recomendación.](xxx)
 
 ## 📆 *3. Desarrollo del Proyecto*
 
-El proyecto se llevo a cabo en tres etapas:
+El proyecto se llevó a cabo en tres etapas:
 
 - 1° Etapa: Puesta en marcha del proyecto y Trabajo con Datos. 👉[Sprint#1](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main/3_Sprint%231)     
 
@@ -63,9 +66,9 @@ Los datasets fueron brindados por Henry:
 
 ## 📈 *5. Conclusiones*
 
-📢📢📢📢Este proyecto esta en desarrollo, se prevee terminarl la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
+📢📢📢📢Este proyecto esta en desarrollo, se prevee terminar la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
 
-## 📚 *6. Bibliografia*
+## 📚 *6. Bibliografía*
 
 - [Fundación Carlo Slim](https://accesolatino.org/noticias/cuatro-datos-clave-de-la-poblacion-latina-en-ee-uu/)
 - [Gruma](https://www.gruma.com/es/sala-de-prensa/noticias-y-comunicados/julio-19-2023-operaciones-de-gruma-fuera-de-mexico-impulsan-crecimiento-de-24percent-en-ventas-netas-y-31percent-en-ebitda-durante-el-2t23.aspx)
@@ -88,14 +91,14 @@ Product Owner:
 
 **Grupo N° 1**:
 
-Data Analyst / Data Science
-  - **Marta Inés Pedriel**: martainesped@gmail.com | Linkedin | GitHub.
-  - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](www.linkedin.com/in/hernán-pizarro-683679268) | [GitHub](https://github.com/Hern4nOckham).
-
 Data Engineer / Data Science
   - **Javier Baez Esqueda**: drbaez072@hotmail.com | Linkedin | GitHub.
   - **Carlos Antonio Baez**: cabaez2011@gmail.com | Linkedin | GitHub.
   - **Steven Yuval Barrantes Briceño**: stevenyb56@hotmail.com | Linkedin | GitHub.
+
+Data Analyst / Data Science
+  - **Marta Inés Pedriel**: martainesped@gmail.com | Linkedin | GitHub.
+  - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](www.linkedin.com/in/hernán-pizarro-683679268) | [GitHub](https://github.com/Hern4nOckham).
 
 
 ## ⚠️ *8. Disclaimer*
@@ -104,4 +107,4 @@ De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los p
 
 No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. 
 
-Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).

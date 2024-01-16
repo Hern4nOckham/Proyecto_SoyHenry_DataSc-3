@@ -10,10 +10,10 @@ armen un dashboard interactivo, junto con un análisis de los datos que hayan tr
 ## 🦾 *2. Modelo de Machine Learning*
 puede ser un MVP esta semana, y luego ser terminado para la última Demo)
 
-- Modelo de Machine Learning 👉 [Sistema de recomendación](xxx)
+- Modelo de Machine Learning 👉 [Sistema de recomendación](xxx).
 
-## 📈 *3. Conclusiones*
-EDA
+## 📈 *3. Resultado y discusión*
+
 
 
 
