@@ -68,6 +68,12 @@ Los datasets fueron brindados por Henry:
 
 📢📢📢📢Este proyecto esta en desarrollo, se prevee terminar la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
 
+🚨 Aclaración: los datos analizados son una muetra de un dataset mayor. Por lo que esta conclusion pueden presentar inconsistencia al compararlos con la información del dataset completo. El dataset con mas cantidad de datos es pago.
+
+[Dataset de Yelp.](https://www.yelp.com/dataset)
+
+[Diccionario del dataset de Yelp.](https://www.yelp.com/dataset/documentation/main)
+
 ## 📚 *6. Bibliografía*
 
 - [Fundación Carlo Slim](https://accesolatino.org/noticias/cuatro-datos-clave-de-la-poblacion-latina-en-ee-uu/)
