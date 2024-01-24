@@ -11,7 +11,9 @@ armen un dashboard interactivo, junto con un análisis de los datos que hayan tr
 
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/2.png" width="500" height="450"> </div>
 xxxxxxxxxxxxxx
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/3.png" width="750" height="450"> </div>
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3/3_1.png" width="750" height="450"> </div>
+xxxxxxxxxxxxxx
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3/3_2.png" width="750" height="450"> </div>
 xxxxxxxxxxxxxx
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/4.png" width="750" height="450"> </div>
 xxxxxxxxxxxxxx
