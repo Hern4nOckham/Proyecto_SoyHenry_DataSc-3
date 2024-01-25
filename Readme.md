@@ -64,7 +64,7 @@ Los datasets fueron brindados por Henry:
 - [Yelp](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
 
 
-## 📈 *5. Conclusiones*
+## 📈 *5. Insights*
 
 📢📢📢📢Este proyecto esta en desarrollo, se prevee terminar la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
 
