@@ -3,9 +3,17 @@
 
 
 ## 📊 *1. Dashboard*
-armen un dashboard interactivo, junto con un análisis de los datos que hayan trabajado. Deben incluir los KPI 's que determinaron como importantes para el análisis realizado, y preparar un storytelling con el mismo.
+
+Este es un dashboard interactivo realizado en Power BI, con una ingesta de datos automatizada periódicamente desde Bigquery de Google Cloud. 
+
+Los datos provienen de la plataforma de Yelp y son procesados en la nube con análisis de sentimiento en un DAG en Python a través del Composer y Airflow. Abarca una amplia gama de tipos de accesos a los datos entrando por estados, año, reseñas de clientes y valoraciones por cantidad de estrellas. 
+
+Se pueden observar las gráficas de evolución de 3 KPI, y consultar la geolocalización de restaurantes identificándolos por las valoraciones de clientes en cuanto a la valoración por cantidad de estrellas y reseñas. Podremos observar también porcentajes de aceptación y ranking de restaurants entre otras medidas.
 
 - Versión online del dashboard 👉 [Visualización de datos](https://app.powerbi.com/view?r=eyJrIjoiNDc5MmY1YzgtYWMxOC00NjE1LWFiM2QtYzFjMmU0ZTVlYTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Visualizacion_datos.jpg" width="600" height="400"> </div>
+
 
 ## 📈 *3. Resultado y discusión*
  
