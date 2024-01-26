@@ -41,7 +41,9 @@ Para este proyecto, una empresa del rubro alimenticio nos contrató para realiza
 
 - Para una **consulta de los datos en tiempo real**, se realizó un sistema de recomendación.
 
-   👉 [Sistema de recomendación.](xxx)
+   👉 [Análisis de datos](https://jbe777-recomendacion-introduccion-nosbuj.streamlit.app/).
+
+   👉 [Modelo de Machine Learning](https://mxrestaurant-vkbd9vf6vqedaodnbjckw4.streamlit.app/).
 
 ## 📆 *3. Desarrollo del Proyecto*
 
@@ -66,7 +68,11 @@ Los datasets fueron brindados por Henry:
 
 ## 📈 *5. Insights*
 
-📢📢📢📢Este proyecto esta en desarrollo, se prevee terminar la primera semana de febrero del 2024. Apartir de esta fecha recien estara completo el proyecto.🚨🚨🚨🚨🚨
+- 80 % de los restaurantes mexicanos lo manejan siete empresas.
+- 80 % de los restaurantes mexicanos se encuentran en solo siete estados de EE.UU.
+- Aumenta la demanda de comida mexicana en el segundo y tercer trimestre.
+- 70% de las reseñas de los clientes, son neutras a positivas.
+- El sector de comida mexicana en EE.UU. se mantiene estable con tendencia a crecer.
 
 🚨 Aclaración: los datos analizados son una muetra de un dataset mayor. Por lo que esta conclusion pueden presentar inconsistencia al compararlos con la información del dataset completo. El dataset con mas cantidad de datos es pago.
 
