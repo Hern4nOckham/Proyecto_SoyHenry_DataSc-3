@@ -60,12 +60,22 @@ Se pueden observar las gráficas de evolución de 3 KPI, y consultar la geolocal
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/11_2.png" width="450" height="300"> </div>
 
 ## 🦾 *2. Modelo de Machine Learning*
-puede ser un MVP esta semana, y luego ser terminado para la última Demo)
+Presentamos dos Productos Minimos Viables:
 
-- Modelo de Machine Learning 👉 [Sistema de recomendación](xxx).
+- Exploración de datos 👉 [Sistema de recomendación](https://jbe777-recomendacion-introduccion-nosbuj.streamlit.app/).
+
+Se puede **consultar informacón sobre las valoraciones** por parte de los clientes de los restaurantes mexicanos y ver graficas de las respuestas del sistema. Se busca con este producto que se hagan consultas y obtener gráficos al instantes de los temas que se requieren información para el proceso de toma de decisiones.
+
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Sistema_recomendacion1.jpg" width="800" height="400"> </div>
 
 
 
+
+- Modelo de Machine Learning 👉 [Sistema de recomendación](https://mxrestaurant-vkbd9vf6vqedaodnbjckw4.streamlit.app/).
+
+En este **sistema de recomendación al ingresar nuestra ubicación** nos da una lista de los restaurantes mexicanos más cercano y ordenados según valoración de los clientes, al seleccionar el restaurante que se quiere visitar tiene la opción de que le indique la ruta más rápida por medio de Google Maps. Con este producto se busca que se validen in situ la información de cada restaurante.
+
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Machine_learning2.jpg" width="800" height="400"> </div>
 
 
 
