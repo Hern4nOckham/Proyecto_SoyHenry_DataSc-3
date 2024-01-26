@@ -32,11 +32,14 @@ Haz commit de tus cambios y sube la nueva rama:
 -Envía una solicitud de extracción (Pull Request) desde tu rama a la rama principal del repositorio original.
 
 ## **Créditos**
-El proyecto Smart Data fue desarrollado por [Smart Data / Autor(es: Marta Inés Pedriel Data Analyst /Data Science
-Javier Báez Esqueda Data Engineer / Data Science
-Carlos Antonio Baez Data Engineer/Data Science
-Steven Yuval Barrantes Briceño Data Engineer / Data Science
-Hernán Pizarro Data Analyst /Data Science] y se basa en tecnologías y recursos de código abierto.
+El proyecto Smart Data fue desarrollado por **Smart Data**
+Autores:
+**Marta Inés Pedriel** Data Analyst /Data Science.
+**Javier Báez Esqueda** Data Engineer / Data Science.
+**Carlos Antonio Baez** Data Engineer/Data Science.
+**Steven Yuval Barrantes Briceño** Data Engineer / Data Science.
+**Hernán Pizarro Data Analyst** /Data Science.
+Se basa en tecnologías y recursos de código abierto.
 
 [Link del Sistema de Recomendación]([https://www.yelp.com/dataset/documentation/main](https://mxrestaurant-vkbd9vf6vqedaodnbjckw4.streamlit.app/#sistema-de-recomendaci-n-para-restaurantes-mexicanos)
 
