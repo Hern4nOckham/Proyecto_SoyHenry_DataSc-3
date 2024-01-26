@@ -12,7 +12,7 @@ Se pueden observar las gráficas de evolución de 3 KPI, y consultar la geolocal
 
 - Versión online del dashboard 👉 [Visualización de datos](https://app.powerbi.com/view?r=eyJrIjoiNDc5MmY1YzgtYWMxOC00NjE1LWFiM2QtYzFjMmU0ZTVlYTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Visualizacion_datos.jpg" width="600" height="400"> </div>
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Visualizacion_datos.jpg" width="700" height="400"> </div>
 
 
 ## 📈 *3. Resultado y discusión*
