@@ -1,5 +1,5 @@
-# **<p mxrestaurant </p>
-<img src="https://github.com/Hern4nOckham\Proyecto_grupalDS-Final\2_Imagenes\1.jpg" width="1010" height="505"</img>
+## ** Sistema de Recomendación**
+
 
 ## 📋 *2. Descripción del Proyecto*
 
