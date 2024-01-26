@@ -93,7 +93,7 @@ Los datasets fueron brindados por Henry:
 
 Data Engineer / Data Science
   - **Javier Baez Esqueda**: drbaez072@gmail.com | Linkedin | GitHub.
-  - **Carlos Antonio Baez**: cabaez2011@gmail.com | Linkedin | GitHub.
+  - **Carlos Antonio Baez**: cabaez2011@gmail.com | [Linkedin](www.linkedin.com/in/carlos-antonio-baez-41196a234)  | [GitHub](https://github.com/carlosab2021).
   - **Steven Yuval Barrantes Briceño**: stevenyb56@hotmail.com | Linkedin | GitHub.
 
 Data Analyst / Data Science
