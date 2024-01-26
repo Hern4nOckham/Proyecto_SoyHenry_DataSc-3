@@ -1,4 +1,4 @@
-### Sistema de Recomendación
+## Sistema de Recomendación
 
 
 ## 📋 *2. Descripción del Proyecto*
