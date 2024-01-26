@@ -41,6 +41,6 @@ Autores:
 **Hernán Pizarro Data Analyst** /Data Science.
 Se basa en tecnologías y recursos de código abierto.
 
-[Link del Sistema de Recomendación]([https://www.yelp.com/dataset/documentation/main](https://mxrestaurant-vkbd9vf6vqedaodnbjckw4.streamlit.app/#sistema-de-recomendaci-n-para-restaurantes-mexicanos)
+[Link del Sistema de Recomendación](https://mxrestaurant-vkbd9vf6vqedaodnbjckw4.streamlit.app/#sistema-de-recomendaci-n-para-restaurantes-mexicanos)
 
  👉[Regresar al Proyecto](https://github.com/Hern4nOckham/Proyecto_grupalDS-Final/tree/main)
