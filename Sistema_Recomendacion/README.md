@@ -32,7 +32,7 @@ Haz commit de tus cambios y sube la nueva rama:
 -Envía una solicitud de extracción (Pull Request) desde tu rama a la rama principal del repositorio original.
 
 ## **Créditos**
-El proyecto Smart Data fue desarrollado por **Smart Data**
+El proyecto del Sistema de recomendación Data fue desarrollado por **Smart Data**
 Autores:
 **Marta Inés Pedriel** Data Analyst /Data Science.
 **Javier Báez Esqueda** Data Engineer / Data Science.
