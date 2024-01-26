@@ -17,6 +17,10 @@ Se pueden observar las gráficas de evolución de 3 KPI, y consultar la geolocal
 
 ## 📈 *3. Resultado y discusión*
  
+En la sección de resultados y discusión, presentamos y analizamos los hallazgos de nuestro trabajo. Los resultados obtenidos son discutidos en detalle en la presentación del sprint 3 para proporcionar una comprensión clara y profunda de los datos recopilados. 
+
+A continuación se presentan algunos gráficos analizados en el **Análisis Exploratorio de Datos** que se adjunta el archivo con el nombre de EDA.ipynb .
+
 - Correlación entre variables 
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/3.png" width="500" height="450"> </div>
 
@@ -66,8 +70,7 @@ Presentamos dos Productos Minimos Viables:
 
 Se puede **consultar informacón sobre las valoraciones** por parte de los clientes de los restaurantes mexicanos y ver graficas de las respuestas del sistema. Se busca con este producto que se hagan consultas y obtener gráficos al instantes de los temas que se requieren información para el proceso de toma de decisiones.
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Sistema_recomendacion1.jpg" width="800" height="450"> </div>
-
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Sistema_recomendacion1.jpg" width="800" height="400"> </div>
 
 
 
@@ -75,7 +78,7 @@ Se puede **consultar informacón sobre las valoraciones** por parte de los clien
 
 En este **sistema de recomendación al ingresar nuestra ubicación** nos da una lista de los restaurantes mexicanos más cercano y ordenados según valoración de los clientes, al seleccionar el restaurante que se quiere visitar tiene la opción de que le indique la ruta más rápida por medio de Google Maps. Con este producto se busca que se validen in situ la información de cada restaurante.
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Machine_learning2.jpg" width="800" height="450"> </div>
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3\Machine_learning2.jpg" width="800" height="400"> </div>
 
 
 
