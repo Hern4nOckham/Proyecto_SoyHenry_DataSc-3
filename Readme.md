@@ -98,7 +98,7 @@ Data Engineer / Data Science
 
 Data Analyst / Data Science
   - **Marta Inés Pedriel**: martainesped@gmail.com | Linkedin | GitHub.
-  - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](www.linkedin.com/in/hernán-pizarro-683679268/) | [GitHub](https://github.com/Hern4nOckham).
+  - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) | [GitHub](https://github.com/Hern4nOckham).
 
 **Academia Henry:**
 
