@@ -21,47 +21,25 @@ En la sección de resultados y discusión, presentamos y analizamos los hallazgo
 
 A continuación se presentan algunos gráficos analizados en el **Análisis Exploratorio de Datos** que se adjunta el archivo con el nombre de EDA.ipynb .
 
-- Correlación entre variables 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/3.png" width="500" height="450"> </div>
-
-- Cantidad de restaurantes mexicanos por año.
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/4_1.png" width="750" height="450"> </div>
-
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/4_2.png" width="350" height="100"> </div>
 
 - Cantidad de restaurantes mexicanos por trimestre.
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/5_1.png" width="750" height="450"> </div>
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/5_2.png" width="450" height="350"> </div>
 
 - Cantidad de restaurantes mexicanos por estado.
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/6_1.png" width="750" height="450"> </div>
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/6_2.png" width="450" height="350"> </div>
 
-- Cantidad de sucursales por empresa.
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/7_1.png" width="750" height="470"> </div>
+- Cantidad de restaurantes mexicanos por trimestre por empresa.
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3/7_1.png" width="750" height="450"> </div>
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/7_2.png" width="450" height="750"> </div>
-
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/7_3.png" width="450" height="450"> </div>
-
-- Evolución de la cantidad de sucursales por empresa por trimestre.
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/8_1.png" width="850" height="450"> </div>
-
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/8_2.png" width="450" height="200"> </div>
-
-- Cantidad de restaurantes mexicanos por empresa por estado.
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/9_1.png" width="850" height="450"> </div>
-
-- Calificación de los restaurantes mexicanos.
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/10_1.png" width="750" height="450"> </div>
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3/7_2.png" width="750" height="450"> </div>
 
 
-- Nube de palabras de las reseñas de los clientes.
+- Nube de palabras de las reseñas de los clientes y procesamiento con inteligencia artificial de las palabras.
 <div style="display: flex; justify-content: center;"> <img src="Imagenes3/11_1.png" width="750" height="550"> </div>
 
-<div style="display: flex; justify-content: center;"> <img src="Imagenes3/11_2.png" width="450" height="300"> </div>
+<div style="display: flex; justify-content: center;"> <img src="Imagenes3/11_2.png" width="750" height="450"> </div>
 
 ## 🦾 *2. Modelo de Machine Learning*
 Presentamos dos Productos Minimos Viables:
